@@ -87,9 +87,3 @@ Los resultados están diseñados para ser comprensibles tanto para perfiles téc
 2. Revisar primero la hoja **Dataset** para entender la información base.
 3. Explorar las hojas de cálculo intermedias para ver el proceso de análisis.
 4. Finalizar en la hoja de **Dashboard** para interpretar los resultados.
-
----
-
-## 👤 Autor
-
-**Mauricio Sánchez**
